@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>批量替换 on Geekinney</title>
+    <link>https://geekinney.com/tags/%E6%89%B9%E9%87%8F%E6%9B%BF%E6%8D%A2/</link>
+    <description>Recent content in 批量替换 on Geekinney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://geekinney.com/tags/%E6%89%B9%E9%87%8F%E6%9B%BF%E6%8D%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emacs Hack - 批量替换字符串</title>
+      <link>https://geekinney.com/post/emacs-hack-string-batch-replacement/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/emacs-hack-string-batch-replacement/</guid>
+      <description>实际问题 不使用interactive function(M-%)如何批量替换文件中的字符串？应用场景为文字校验。 解决思路 字符串替换分三种情况： 在当前buffer替</description>
+    </item>
+    
+  </channel>
+</rss>

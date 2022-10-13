@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Geekinney</title>
+    <link>https://geekinney.com/post/</link>
+    <description>Recent content in Posts on Geekinney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://geekinney.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>深入理解C指针</title>
+      <link>https://geekinney.com/post/summary-of-c-pointer/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/summary-of-c-pointer/</guid>
+      <description>指针和动态内存管理是C语言学习中的重点和难点，本篇主要总结自己对指针的理解，深入浅出，言简意赅。 指针的本质 用最简洁的话来描述指针的本质就是：一个存储了内存地址的</description>
+    </item>
+    
+    <item>
+      <title>MoinWiki 部署总结</title>
+      <link>https://geekinney.com/post/deploy-of-moinwiki/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/deploy-of-moinwiki/</guid>
+      <description>MoinMoin 是一个基于Python环境的wiki引擎程序。本篇主要简单记录部署流程和遇到的坑。 概念介绍 部署之前先来了解几个概念： WSGI: 全称是 Python Web Server Gateway Interface（Pyt</description>
+    </item>
+    
+    <item>
+      <title>C-Algorithm: 链表、队列和栈</title>
+      <link>https://geekinney.com/post/c-linkedlist-queue-stack/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/c-linkedlist-queue-stack/</guid>
+      <description>以前写代码总有一种担忧：担心逻辑不够规范、组织结构不够规范、命名不够规范… 这种对规范的洁癖，浪费了我许多不必要的精力。比如链表的数据结构，我看过好几种不同的写法</description>
+    </item>
+    
+    <item>
+      <title>大理之行简记</title>
+      <link>https://geekinney.com/post/trip-to-dali/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/trip-to-dali/</guid>
+      <description>&lt;style&gt;
+.gk-container {
+  column-count: 2;
+  column-gap: 20px;
+}
+@media screen and (min-width: 600px) {
+.gk-container2 {
+  &lt;!-- column-count: 2; --&gt;
+  &lt;!-- column-gap: .5em; --&gt;
+  &lt;!-- padding-left: 1em; --&gt;
+  &lt;!-- padding-right: 1em; --&gt;
+  text-align: center;
+}
+
+.gk-img {
+  &lt;!-- margin: 0 .2em 0 0; --&gt;
+  border: 1px solid #aaa;
+  border-radius: .2em;
+  padding: .2em;
+  display: inline;
+  width: 45%;
+}}
+
+@media screen and (max-width: 600px) {
+.gk-container2 {
+  &lt;!-- column-count: 0; --&gt;
+  &lt;!-- column-gap: 0; --&gt;
+  &lt;!-- padding-left: .6em; --&gt;
+  &lt;!-- padding-right: 1.2em; --&gt;
+  text-align: center;
+}
+.gk-img {
+  &lt;!-- margin: .5em 1em 0 .5em; --&gt;
+  border: 1px solid #aaa;
+  border-radius: .2em;
+  padding: .2em;
+  &lt;!-- display: inline; --&gt;
+  width: 100%;
+}}
+
+.gk-img1 {
+  border:1px solid #ccc; 
+  padding: .2em;
+  border-radius: .2em;
+}
+&lt;/style&gt;
+&lt;img class=&#34;gk-img1&#34; src=&#34;https://geekinney.com/image/gucheng.jpg&#34; width=&#34;100%&#34;/&gt;
+&lt;p&gt;去大理是临时起意。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Meteor 指南</title>
+      <link>https://geekinney.com/post/meteor-guide/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/meteor-guide/</guid>
+      <description>文档目录结构 1 介绍 1.1 什么是Meteor? 1.2 快速入门 1.3 Meteor资源 1.4 什么是Meteor指南? 1.5 指南开发 2 代码风格 2.1 风格一致的好处 2.2 JavaScript风格指南</description>
+    </item>
+    
+    <item>
+      <title>Meteor React 文档</title>
+      <link>https://geekinney.com/post/meteor-react-docs/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/meteor-react-docs/</guid>
+      <description>文档目录结构 1 创建app 1.1 安装 Meteor 1.2 创建 Meteor 项目 1.3 创建任务组件 1.4 创建任务示例 1.5 渲染任务示例 1.6 移动端外观 1.7 更换热模块 2 集合 2.1 创建任务集合 2.2 初始化任务集 2.3 渲染任务集合 3</description>
+    </item>
+    
+    <item>
+      <title>关于阅读</title>
+      <link>https://geekinney.com/post/my-view-of-reading/</link>
+      <pubDate>Sun, 29 Aug 2021 08:57:10 +0800</pubDate>
+      
+      <guid>https://geekinney.com/post/my-view-of-reading/</guid>
+      <description>我读过的书虽然不多，但与阅读相处的经验还是挺丰富的。从小就想当个作家，借个这个理由，小学的时候倒是看过一些书。虽然现在，在记忆中只留下些故事的情节片段，但至少让</description>
+    </item>
+    
+    <item>
+      <title>Emacs Lisp - ewoc使用介绍</title>
+      <link>https://geekinney.com/post/emacs-lisp-ewoc/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/emacs-lisp-ewoc/</guid>
+      <description>介绍 Ewoc 是 Emacs&amp;rsquo;s Widget for Object Collections的简写，它可以根据lisp对象的结构绘制和更新buffer的文本，就像MVC设计模式中的视图层。其中，生成的buffer的</description>
+    </item>
+    
+    <item>
+      <title>Emacs Workflow - 文件管理</title>
+      <link>https://geekinney.com/post/emacs-workflow-file-management/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/emacs-workflow-file-management/</guid>
+      <description>Geekinney 说: &amp;ldquo;文件管理&amp;quot;是每个操作系统最基本的功能。当我们使用计算机时，不可避免的要和文件打交道，比如：文件的创建、重命名、拷贝、移动、删除、搜</description>
+    </item>
+    
+    <item>
+      <title>Emacs Hack - 通过列表数据创建表格</title>
+      <link>https://geekinney.com/post/emacs-hack-create-table-from-data-list/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/emacs-hack-create-table-from-data-list/</guid>
+      <description>问题描述 OrgMode内置的创建表格的函数是 org-table-create , 传入&amp;quot;列数x行数&amp;quot;参数即可生成特定行数、列数的表格。这种交互函数在编写org文档时很实用，但</description>
+    </item>
+    
+    <item>
+      <title>Emacs Hack - 习惯记录与打卡的demo</title>
+      <link>https://geekinney.com/post/record-habit-demo/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/record-habit-demo/</guid>
+      <description>想要培养一些好的习惯，想要不那么费力的变得更自律。 读了一些关于时间管理和习惯培养的书籍和文章，我意识到“仪式感”和“记录反思”的重要性。事实上，以自己喜欢的方式</description>
+    </item>
+    
+    <item>
+      <title>Emacs Hack - 分割文件相似内容</title>
+      <link>https://geekinney.com/post/emacs-hack-split-similar-blocks/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/emacs-hack-split-similar-blocks/</guid>
+      <description>实际问题 将一个文件中的相似块分割成若干个文件。比如下面这个例子： 第一回: 灵根育孕源流出 心性修持大道生 这是第一段内容..... 这是第二段内容..... 这是第三段内</description>
+    </item>
+    
+    <item>
+      <title>Emacs Workflow - 准备工作</title>
+      <link>https://geekinney.com/post/emacs-workflow-preparatory-work/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/emacs-workflow-preparatory-work/</guid>
+      <description>众所周知，emacs以学习曲线陡峭著称，所以在开始介绍workflow前，得做些准备工作。这篇文章主要介绍emacs的安装、基础概念、基础配置和使用emacs的</description>
+    </item>
+    
+    <item>
+      <title>Emacs Hack - 批量替换字符串</title>
+      <link>https://geekinney.com/post/emacs-hack-string-batch-replacement/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/emacs-hack-string-batch-replacement/</guid>
+      <description>实际问题 不使用interactive function(M-%)如何批量替换文件中的字符串？应用场景为文字校验。 解决思路 字符串替换分三种情况： 在当前buffer替</description>
+    </item>
+    
+    <item>
+      <title>Emacs Workflow - 开门见山</title>
+      <link>https://geekinney.com/post/emacs-workflow-get-started/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/emacs-workflow-get-started/</guid>
+      <description>Emacs Workflow 顾名思义 “emacs工作流”。这一系列的文章主要介绍emacs中的常用的工作流，比如：文件管理、日程管理、笔记管理、听音乐、网页浏览、收发邮件、版本控制、字</description>
+    </item>
+    
+    <item>
+      <title>基于Emacs-Lisp的HTML模版库</title>
+      <link>https://geekinney.com/post/html-template-language-in-emacs/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/html-template-language-in-emacs/</guid>
+      <description>English Document 介绍 pp-html 是使用elisp开发的html模版语言。它借鉴了部分 Liquid template language 的设计思路，包括对象，标签和过滤器三部分。通过书写elisp的S表达式，读者可以快速便捷地构</description>
+    </item>
+    
+    <item>
+      <title>关于焦虑</title>
+      <link>https://geekinney.com/post/thinking-about-anxiety/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/thinking-about-anxiety/</guid>
+      <description>有三类事情：第一类只要花时间就能完美解决；第二类不仅要花时间，还得费点脑筋才能大体完成；第三类即使花了时间、耗了精力仍感觉遥遥无期。 把大量的时间花在第一类事情，</description>
+    </item>
+    
+    <item>
+      <title>Emacs Lisp 编程总结</title>
+      <link>https://geekinney.com/post/emacs-lisp-learning-note/</link>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/emacs-lisp-learning-note/</guid>
+      <description>lisp介绍 Lisp（历史上拼写为LISP）是具有悠久历史的计算机编程语言家族，有独特和完全括号的前缀符号表示法。起源于公元1958年，是现今第二悠久而仍广泛使</description>
+    </item>
+    
+    <item>
+      <title>《搞定I》笔记</title>
+      <link>https://geekinney.com/post/reading-notes-of-getting-things-done-one/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/reading-notes-of-getting-things-done-one/</guid>
+      <description>收集阶段：归拢材料 捕获工作和生活中的所有未竟之事，这个阶段通常要花费1~6个小时。很多事情不是那么重要或紧急，但是它们会控制你，无谓消耗你的大量精力，始终让你觉</description>
+    </item>
+    
+    <item>
+      <title>关于写日志</title>
+      <link>https://geekinney.com/post/thinking-about-journaling/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/thinking-about-journaling/</guid>
+      <description>写日志的一个重要好处就是通过每日的反思不断调整，使得事情朝着正确的方向发展。正确的标准是什么？首先自己得舒心，如果事情越做越难受，大抵是什么方面出了问题；其次是</description>
+    </item>
+    
+    <item>
+      <title>关于大学计算机科学</title>
+      <link>https://geekinney.com/post/thinking-about-cs-teaching-in-college/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/thinking-about-cs-teaching-in-college/</guid>
+      <description>我以为学习计算机科学的学生在刚进入大学的时候，学院学校就要让学生了解到这个学科的森林，而非树木。建立学科体系结构和了解学科本质对于学习相当重要。我指的不是像每个</description>
+    </item>
+    
+    <item>
+      <title>重拾阅读</title>
+      <link>https://geekinney.com/post/pick-up-reading-after-read-the-moon-and-sixpence/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/pick-up-reading-after-read-the-moon-and-sixpence/</guid>
+      <description>我相信，一本好书是值得反复阅读品鉴的。今天读完了《月亮与六便士》，想着应该写点什么，毕竟这是我时隔好久完整地读完一本书了。 对于很难坚持阅读的我来说，这一刻是有重</description>
+    </item>
+    
+    <item>
+      <title>《子弹笔记》摘录</title>
+      <link>https://geekinney.com/post/reading-notes-of-bullet-journal/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/reading-notes-of-bullet-journal/</guid>
+      <description>理论 子弹短句分为三类：任务(Task，需要做的事情), 事件(Event，你的经历), 笔记(Note，不想遗忘的信息) 任务子弹分类：任务(●), 完成的任务(x),</description>
+    </item>
+    
+  </channel>
+</rss>

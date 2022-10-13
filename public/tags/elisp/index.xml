@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>elisp on Geekinney</title>
+    <link>https://geekinney.com/tags/elisp/</link>
+    <description>Recent content in elisp on Geekinney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://geekinney.com/tags/elisp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emacs Lisp - ewoc使用介绍</title>
+      <link>https://geekinney.com/post/emacs-lisp-ewoc/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/emacs-lisp-ewoc/</guid>
+      <description>介绍 Ewoc 是 Emacs&amp;rsquo;s Widget for Object Collections的简写，它可以根据lisp对象的结构绘制和更新buffer的文本，就像MVC设计模式中的视图层。其中，生成的buffer的</description>
+    </item>
+    
+    <item>
+      <title>Emacs Hack - 通过列表数据创建表格</title>
+      <link>https://geekinney.com/post/emacs-hack-create-table-from-data-list/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/emacs-hack-create-table-from-data-list/</guid>
+      <description>问题描述 OrgMode内置的创建表格的函数是 org-table-create , 传入&amp;quot;列数x行数&amp;quot;参数即可生成特定行数、列数的表格。这种交互函数在编写org文档时很实用，但</description>
+    </item>
+    
+    <item>
+      <title>Emacs Hack - 习惯记录与打卡的demo</title>
+      <link>https://geekinney.com/post/record-habit-demo/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/record-habit-demo/</guid>
+      <description>想要培养一些好的习惯，想要不那么费力的变得更自律。 读了一些关于时间管理和习惯培养的书籍和文章，我意识到“仪式感”和“记录反思”的重要性。事实上，以自己喜欢的方式</description>
+    </item>
+    
+    <item>
+      <title>Emacs Hack - 分割文件相似内容</title>
+      <link>https://geekinney.com/post/emacs-hack-split-similar-blocks/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/emacs-hack-split-similar-blocks/</guid>
+      <description>实际问题 将一个文件中的相似块分割成若干个文件。比如下面这个例子： 第一回: 灵根育孕源流出 心性修持大道生 这是第一段内容..... 这是第二段内容..... 这是第三段内</description>
+    </item>
+    
+    <item>
+      <title>Emacs Hack - 批量替换字符串</title>
+      <link>https://geekinney.com/post/emacs-hack-string-batch-replacement/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/emacs-hack-string-batch-replacement/</guid>
+      <description>实际问题 不使用interactive function(M-%)如何批量替换文件中的字符串？应用场景为文字校验。 解决思路 字符串替换分三种情况： 在当前buffer替</description>
+    </item>
+    
+    <item>
+      <title>基于Emacs-Lisp的HTML模版库</title>
+      <link>https://geekinney.com/post/html-template-language-in-emacs/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/html-template-language-in-emacs/</guid>
+      <description>English Document 介绍 pp-html 是使用elisp开发的html模版语言。它借鉴了部分 Liquid template language 的设计思路，包括对象，标签和过滤器三部分。通过书写elisp的S表达式，读者可以快速便捷地构</description>
+    </item>
+    
+    <item>
+      <title>Emacs Lisp 编程总结</title>
+      <link>https://geekinney.com/post/emacs-lisp-learning-note/</link>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/emacs-lisp-learning-note/</guid>
+      <description>lisp介绍 Lisp（历史上拼写为LISP）是具有悠久历史的计算机编程语言家族，有独特和完全括号的前缀符号表示法。起源于公元1958年，是现今第二悠久而仍广泛使</description>
+    </item>
+    
+  </channel>
+</rss>

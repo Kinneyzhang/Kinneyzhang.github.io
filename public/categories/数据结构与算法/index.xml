@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>数据结构与算法 on Geekinney</title>
+    <link>https://geekinney.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</link>
+    <description>Recent content in 数据结构与算法 on Geekinney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://geekinney.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C-Algorithm: 链表、队列和栈</title>
+      <link>https://geekinney.com/post/c-linkedlist-queue-stack/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/c-linkedlist-queue-stack/</guid>
+      <description>以前写代码总有一种担忧：担心逻辑不够规范、组织结构不够规范、命名不够规范… 这种对规范的洁癖，浪费了我许多不必要的精力。比如链表的数据结构，我看过好几种不同的写法</description>
+    </item>
+    
+  </channel>
+</rss>

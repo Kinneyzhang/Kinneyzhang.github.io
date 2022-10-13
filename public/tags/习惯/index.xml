@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>习惯 on Geekinney</title>
+    <link>https://geekinney.com/tags/%E4%B9%A0%E6%83%AF/</link>
+    <description>Recent content in 习惯 on Geekinney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://geekinney.com/tags/%E4%B9%A0%E6%83%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emacs Hack - 习惯记录与打卡的demo</title>
+      <link>https://geekinney.com/post/record-habit-demo/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/record-habit-demo/</guid>
+      <description>想要培养一些好的习惯，想要不那么费力的变得更自律。 读了一些关于时间管理和习惯培养的书籍和文章，我意识到“仪式感”和“记录反思”的重要性。事实上，以自己喜欢的方式</description>
+    </item>
+    
+  </channel>
+</rss>

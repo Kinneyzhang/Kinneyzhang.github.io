@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C语言 on Geekinney</title>
+    <link>https://geekinney.com/tags/c%E8%AF%AD%E8%A8%80/</link>
+    <description>Recent content in C语言 on Geekinney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://geekinney.com/tags/c%E8%AF%AD%E8%A8%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>深入理解C指针</title>
+      <link>https://geekinney.com/post/summary-of-c-pointer/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/summary-of-c-pointer/</guid>
+      <description>指针和动态内存管理是C语言学习中的重点和难点，本篇主要总结自己对指针的理解，深入浅出，言简意赅。 指针的本质 用最简洁的话来描述指针的本质就是：一个存储了内存地址的</description>
+    </item>
+    
+    <item>
+      <title>C-Algorithm: 链表、队列和栈</title>
+      <link>https://geekinney.com/post/c-linkedlist-queue-stack/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/c-linkedlist-queue-stack/</guid>
+      <description>以前写代码总有一种担忧：担心逻辑不够规范、组织结构不够规范、命名不够规范… 这种对规范的洁癖，浪费了我许多不必要的精力。比如链表的数据结构，我看过好几种不同的写法</description>
+    </item>
+    
+  </channel>
+</rss>

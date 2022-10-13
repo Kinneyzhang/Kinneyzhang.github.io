@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React on Geekinney</title>
+    <link>https://geekinney.com/tags/react/</link>
+    <description>Recent content in React on Geekinney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://geekinney.com/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meteor React 文档</title>
+      <link>https://geekinney.com/post/meteor-react-docs/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/meteor-react-docs/</guid>
+      <description>文档目录结构 1 创建app 1.1 安装 Meteor 1.2 创建 Meteor 项目 1.3 创建任务组件 1.4 创建任务示例 1.5 渲染任务示例 1.6 移动端外观 1.7 更换热模块 2 集合 2.1 创建任务集合 2.2 初始化任务集 2.3 渲染任务集合 3</description>
+    </item>
+    
+  </channel>
+</rss>

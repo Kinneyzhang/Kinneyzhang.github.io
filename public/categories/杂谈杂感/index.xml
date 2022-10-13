@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杂谈杂感 on Geekinney</title>
+    <link>https://geekinney.com/categories/%E6%9D%82%E8%B0%88%E6%9D%82%E6%84%9F/</link>
+    <description>Recent content in 杂谈杂感 on Geekinney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 29 Aug 2021 08:57:10 +0800</lastBuildDate><atom:link href="https://geekinney.com/categories/%E6%9D%82%E8%B0%88%E6%9D%82%E6%84%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于阅读</title>
+      <link>https://geekinney.com/post/my-view-of-reading/</link>
+      <pubDate>Sun, 29 Aug 2021 08:57:10 +0800</pubDate>
+      
+      <guid>https://geekinney.com/post/my-view-of-reading/</guid>
+      <description>我读过的书虽然不多，但与阅读相处的经验还是挺丰富的。从小就想当个作家，借个这个理由，小学的时候倒是看过一些书。虽然现在，在记忆中只留下些故事的情节片段，但至少让</description>
+    </item>
+    
+    <item>
+      <title>关于焦虑</title>
+      <link>https://geekinney.com/post/thinking-about-anxiety/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/thinking-about-anxiety/</guid>
+      <description>有三类事情：第一类只要花时间就能完美解决；第二类不仅要花时间，还得费点脑筋才能大体完成；第三类即使花了时间、耗了精力仍感觉遥遥无期。 把大量的时间花在第一类事情，</description>
+    </item>
+    
+    <item>
+      <title>关于写日志</title>
+      <link>https://geekinney.com/post/thinking-about-journaling/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/thinking-about-journaling/</guid>
+      <description>写日志的一个重要好处就是通过每日的反思不断调整，使得事情朝着正确的方向发展。正确的标准是什么？首先自己得舒心，如果事情越做越难受，大抵是什么方面出了问题；其次是</description>
+    </item>
+    
+    <item>
+      <title>关于大学计算机科学</title>
+      <link>https://geekinney.com/post/thinking-about-cs-teaching-in-college/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/thinking-about-cs-teaching-in-college/</guid>
+      <description>我以为学习计算机科学的学生在刚进入大学的时候，学院学校就要让学生了解到这个学科的森林，而非树木。建立学科体系结构和了解学科本质对于学习相当重要。我指的不是像每个</description>
+    </item>
+    
+  </channel>
+</rss>

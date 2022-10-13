@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>排序 on Happy Hacking!</title>
+    <link>https://geekinney.com/tags/%E6%8E%92%E5%BA%8F/</link>
+    <description>Recent content in 排序 on Happy Hacking!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://geekinney.com/tags/%E6%8E%92%E5%BA%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C-Algorithm: 基本排序算法</title>
+      <link>https://geekinney.com/post/c-algorithm-basic-sort/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/c-algorithm-basic-sort/</guid>
+      <description>本篇所说的基本排序算法指：选择排序、插入排序 和 冒泡排序 算法实现 选择排序 #include &amp;lt;stdlib.h&amp;gt; #include &amp;lt;stdio.h&amp;gt; void selectSort (int a[], int size) { for (int i=0; i&amp;lt;size; i++) { int m = i; // position of the minimum element. for (int j=i+1; j&amp;lt;size; j++) if (a[j] &amp;lt;</description>
+    </item>
+    
+  </channel>
+</rss>

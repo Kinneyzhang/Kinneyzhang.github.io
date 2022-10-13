@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>旅行简记 on Geekinney</title>
+    <link>https://geekinney.com/categories/%E6%97%85%E8%A1%8C%E7%AE%80%E8%AE%B0/</link>
+    <description>Recent content in 旅行简记 on Geekinney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 22 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://geekinney.com/categories/%E6%97%85%E8%A1%8C%E7%AE%80%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大理之行简记</title>
+      <link>https://geekinney.com/post/trip-to-dali/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekinney.com/post/trip-to-dali/</guid>
+      <description>&lt;style&gt;
+.gk-container {
+  column-count: 2;
+  column-gap: 20px;
+}
+@media screen and (min-width: 600px) {
+.gk-container2 {
+  &lt;!-- column-count: 2; --&gt;
+  &lt;!-- column-gap: .5em; --&gt;
+  &lt;!-- padding-left: 1em; --&gt;
+  &lt;!-- padding-right: 1em; --&gt;
+  text-align: center;
+}
+
+.gk-img {
+  &lt;!-- margin: 0 .2em 0 0; --&gt;
+  border: 1px solid #aaa;
+  border-radius: .2em;
+  padding: .2em;
+  display: inline;
+  width: 45%;
+}}
+
+@media screen and (max-width: 600px) {
+.gk-container2 {
+  &lt;!-- column-count: 0; --&gt;
+  &lt;!-- column-gap: 0; --&gt;
+  &lt;!-- padding-left: .6em; --&gt;
+  &lt;!-- padding-right: 1.2em; --&gt;
+  text-align: center;
+}
+.gk-img {
+  &lt;!-- margin: .5em 1em 0 .5em; --&gt;
+  border: 1px solid #aaa;
+  border-radius: .2em;
+  padding: .2em;
+  &lt;!-- display: inline; --&gt;
+  width: 100%;
+}}
+
+.gk-img1 {
+  border:1px solid #ccc; 
+  padding: .2em;
+  border-radius: .2em;
+}
+&lt;/style&gt;
+&lt;img class=&#34;gk-img1&#34; src=&#34;https://geekinney.com/image/gucheng.jpg&#34; width=&#34;100%&#34;/&gt;
+&lt;p&gt;去大理是临时起意。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
