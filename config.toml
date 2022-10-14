@@ -44,8 +44,8 @@ enableGitInfo = true
         search = true
         nav = true
         archive = true
-        idea = false
-        wiki = true
+        # idea = false
+        # wiki = true
         about = true
 
 
